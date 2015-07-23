@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sectionTitle</key>
+		<string>File system</string>
+		<key>commands</key>
+		<array>
+			<dict>
+				<key>cmd</key>
+				<string>cat</string>
+				<key>url</key>
+				<string>/wiki/Cat_(Unix)</string>
+				<key>desc</key>
+				<string>Concatenate and output files</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>cd</string>
+				<key>url</key>
+				<string>/wiki/Cd_(command)</string>
+				<key>desc</key>
+				<string>Change current directory</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>chmod</string>
+				<key>url</key>
+				<string>/wiki/Chmod</string>
+				<key>desc</key>
+				<string>Change access rights</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>chown</string>
+				<key>url</key>
+				<string>/wiki/Chown</string>
+				<key>desc</key>
+				<string>Change owner of file</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>chgrp</string>
+				<key>url</key>
+				<string>/wiki/Chgrp</string>
+				<key>desc</key>
+				<string>Change group number of file</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>cksum</string>
+				<key>url</key>
+				<string>/wiki/Cksum</string>
+				<key>desc</key>
+				<string>Write checksums and file sizes</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>cmp</string>
+				<key>url</key>
+				<string>/wiki/Cmp_(Unix)</string>
+				<key>desc</key>
+				<string>Compare files character by character</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>cp</string>
+				<key>url</key>
+				<string>/wiki/Cp_(Unix)</string>
+				<key>desc</key>
+				<string>Copy files</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>dd</string>
+				<key>url</key>
+				<string>/wiki/Dd_(Unix)</string>
+				<key>desc</key>
+				<string>Copy and convert files</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>du</string>
+				<key>url</key>
+				<string>/wiki/Du_(Unix)</string>
+				<key>desc</key>
+				<string>Display occupied memory space</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>df</string>
+				<key>url</key>
+				<string>/wiki/Df_(Unix)</string>
+				<key>desc</key>
+				<string>Display number of free and occupied disk blocks</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>file</string>
+				<key>url</key>
+				<string>/wiki/File_(command)</string>
+				<key>desc</key>
+				<string>Define file type</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>fsck</string>
+				<key>url</key>
+				<string>/wiki/Fsck</string>
+				<key>desc</key>
+				<string>Filesystem consistency check and interactive repair</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>fuser</string>
+				<key>url</key>
+				<string>/wiki/Fuser_(Unix)</string>
+				<key>desc</key>
+				<string>List process IDs of all processes that have one or more files open</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>ln</string>
+				<key>url</key>
+				<string>/wiki/Ln_(Unix)</string>
+				<key>desc</key>
+				<string>Enter reference to file</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>ls</string>
+				<key>url</key>
+				<string>/wiki/Ls</string>
+				<key>desc</key>
+				<string>Output information on directories and files</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>mkdir</string>
+				<key>url</key>
+				<string>/wiki/Mkdir</string>
+				<key>desc</key>
+				<string>Create directory</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>mount</string>
+				<key>url</key>
+				<string>/wiki/Mount_(Unix)</string>
+				<key>desc</key>
+				<string>Mount file systems and remote resources</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>mv</string>
+				<key>url</key>
+				<string>/wiki/Mv</string>
+				<key>desc</key>
+				<string>Move or rename files</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>pax</string>
+				<key>url</key>
+				<string>/wiki/Pax_(Unix)</string>
+				<key>desc</key>
+				<string>Process portable archives</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>pwd</string>
+				<key>url</key>
+				<string>/wiki/Pwd</string>
+				<key>desc</key>
+				<string>Output path name of current working directory</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>rm</string>
+				<key>url</key>
+				<string>/wiki/Rm_(Unix)</string>
+				<key>desc</key>
+				<string>Delete files</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>rmdir</string>
+				<key>url</key>
+				<string>/wiki/Rmdir</string>
+				<key>desc</key>
+				<string>Delete directories</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>size</string>
+				<key>url</key>
+				<string>/wiki/Size_(Unix)</string>
+				<key>desc</key>
+				<string>Print the size of the sections in an object file</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>split</string>
+				<key>url</key>
+				<string>/wiki/Split_(Unix)</string>
+				<key>desc</key>
+				<string>Distribute file across several files</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>tee</string>
+				<key>url</key>
+				<string>/wiki/Tee_(command)</string>
+				<key>desc</key>
+				<string>Join pipes together and copy input</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>touch</string>
+				<key>url</key>
+				<string>/wiki/Touch_(Unix)</string>
+				<key>desc</key>
+				<string>Update modification and access times</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>type</string>
+				<key>url</key>
+				<string>/wiki/Type_(Unix)</string>
+				<key>desc</key>
+				<string>Query command type</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>unmask</string>
+				<key>url</key>
+				<string>/wiki/Umask</string>
+				<key>desc</key>
+				<string>Output or modify default allocation of access rights</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Processes</string>
+		<key>commands</key>
+		<array>
+			<dict>
+				<key>cmd</key>
+				<string>at</string>
+				<key>url</key>
+				<string>/wiki/At_(Unix)</string>
+				<key>desc</key>
+				<string>Execute commands at a later date</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>bg</string>
+				<key>url</key>
+				<string>/wiki/Bg_(Unix)</string>
+				<key>desc</key>
+				<string>Process jobs in background</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>chroot</string>
+				<key>url</key>
+				<string>/wiki/Chroot</string>
+				<key>desc</key>
+				<string>Change root directory</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>cron</string>
+				<key>url</key>
+				<string>/wiki/Cron</string>
+				<key>desc</key>
+				<string>Daemon to execute scheduled commands</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>fg</string>
+				<key>url</key>
+				<string>/wiki/Fg_(Unix)</string>
+				<key>desc</key>
+				<string>Bring jobs into foreground</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>kill</string>
+				<key>url</key>
+				<string>/wiki/Kill_(command)</string>
+				<key>desc</key>
+				<string>Send signals to processes</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>killall</string>
+				<key>url</key>
+				<string>/wiki/Killall</string>
+				<key>desc</key>
+				<string>Kill processes by name</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>nice</string>
+				<key>url</key>
+				<string>/wiki/Nice_(Unix)</string>
+				<key>desc</key>
+				<string>Change priority of commands</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>pgrep</string>
+				<key>url</key>
+				<string>/wiki/Pgrep</string>
+				<key>desc</key>
+				<string>Find processes by name</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>pkill</string>
+				<key>url</key>
+				<string>/wiki/Pkill</string>
+				<key>desc</key>
+				<string>Signal processes by name</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>ps</string>
+				<key>url</key>
+				<string>/wiki/Ps_(Unix)</string>
+				<key>desc</key>
+				<string>Query process data</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>time</string>
+				<key>url</key>
+				<string>/wiki/Time_(Unix)</string>
+				<key>desc</key>
+				<string>Measure command runtime</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>top</string>
+				<key>url</key>
+				<string>/wiki/Top_(software)</string>
+				<key>desc</key>
+				<string>Display and update sorted information about processes</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>User environment</string>
+		<key>commands</key>
+		<array>
+			<dict>
+				<key>cmd</key>
+				<string>clear</string>
+				<key>url</key>
+				<string>/wiki/Clear_(Unix)</string>
+				<key>desc</key>
+				<string>Clear the terminal screen</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>env</string>
+				<key>url</key>
+				<string>/wiki/Env</string>
+				<key>desc</key>
+				<string>Change environment when executing commands</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>exit</string>
+				<key>url</key>
+				<string>/wiki/Exit_(command)</string>
+				<key>desc</key>
+				<string>Terminate shell procedure</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>finger</string>
+				<key>url</key>
+				<string>/wiki/Finger_protocol</string>
+				<key>desc</key>
+				<string>User information lookup program</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>history</string>
+				<key>url</key>
+				<string>/wiki/History_(Unix)</string>
+				<key>desc</key>
+				<string>Display history list</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>id</string>
+				<key>url</key>
+				<string>/wiki/Id_(Unix)</string>
+				<key>desc</key>
+				<string>Output user identification</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>logname</string>
+				<key>url</key>
+				<string>/wiki/Logname</string>
+				<key>desc</key>
+				<string>Query login name</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>mesg</string>
+				<key>url</key>
+				<string>/wiki/Mesg</string>
+				<key>desc</key>
+				<string>Forbid or permit receipt of messages</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>passwd</string>
+				<key>url</key>
+				<string>/wiki/Passwd</string>
+				<key>desc</key>
+				<string>Modify a user's password</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>su</string>
+				<key>url</key>
+				<string>/wiki/Su_(Unix)</string>
+				<key>desc</key>
+				<string>Substitute user identity</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>sudo</string>
+				<key>url</key>
+				<string>/wiki/Sudo</string>
+				<key>desc</key>
+				<string>Execute a command as another user</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>uptime</string>
+				<key>url</key>
+				<string>/wiki/Uptime#Linux</string>
+				<key>desc</key>
+				<string>Show how long system has been running</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>talk</string>
+				<key>url</key>
+				<string>/wiki/Talk_(software)</string>
+				<key>desc</key>
+				<string>Talk with another user</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>tput</string>
+				<key>url</key>
+				<string>/wiki/Tput</string>
+				<key>desc</key>
+				<string>Initialize terminal or query terminfo database</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>uname</string>
+				<key>url</key>
+				<string>/wiki/Uname</string>
+				<key>desc</key>
+				<string>Output basic data on the current operating system</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>w</string>
+				<key>url</key>
+				<string>/wiki/W_(Unix)</string>
+				<key>desc</key>
+				<string>Display who is logged in and what they are doing</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>wall</string>
+				<key>url</key>
+				<string>/wiki/Wall_(Unix)</string>
+				<key>desc</key>
+				<string>Write a message to users</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>who</string>
+				<key>url</key>
+				<string>/wiki/Who_(Unix)</string>
+				<key>desc</key>
+				<string>Show active user IDs</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>whoami</string>
+				<key>url</key>
+				<string>/wiki/Whoami</string>
+				<key>desc</key>
+				<string>Display effective user id</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>write</string>
+				<key>url</key>
+				<string>/wiki/Write_(Unix)</string>
+				<key>desc</key>
+				<string>Send message to a user</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Text processing</string>
+		<key>commands</key>
+		<array>
+			<dict>
+				<key>cmd</key>
+				<string>awk</string>
+				<key>url</key>
+				<string>/wiki/AWK</string>
+				<key>desc</key>
+				<string>Programmable processing of text files</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>banner</string>
+				<key>url</key>
+				<string>/wiki/Banner_(Unix)</string>
+				<key>desc</key>
+				<string>Print large banner on printer</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>basename</string>
+				<key>url</key>
+				<string>/wiki/Basename</string>
+				<key>desc</key>
+				<string>Separate file name from path</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>comm</string>
+				<key>url</key>
+				<string>/wiki/Comm</string>
+				<key>desc</key>
+				<string>Search for identical lines in two sorted files</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>csplit</string>
+				<key>url</key>
+				<string>/wiki/Csplit</string>
+				<key>desc</key>
+				<string>Split file according to specific criteria</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>cut</string>
+				<key>url</key>
+				<string>/wiki/Cut_(Unix)</string>
+				<key>desc</key>
+				<string>Cut bytes, characters or fields from the lines of a file</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>diff</string>
+				<key>url</key>
+				<string>/wiki/Diff</string>
+				<key>desc</key>
+				<string>Compare files line by line</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>dirname</string>
+				<key>url</key>
+				<string>/wiki/Dirname</string>
+				<key>desc</key>
+				<string>Separate path prefix from file name</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>ed</string>
+				<key>url</key>
+				<string>/wiki/Ed_(text_editor)</string>
+				<key>desc</key>
+				<string>Line editor in interactive mode</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>ex</string>
+				<key>url</key>
+				<string>/wiki/Ex_(text_editor)</string>
+				<key>desc</key>
+				<string>Line editor</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>fmt</string>
+				<key>url</key>
+				<string>/wiki/Fmt</string>
+				<key>desc</key>
+				<string>Simple text formatter</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>fold</string>
+				<key>url</key>
+				<string>/wiki/Fold_(Unix)</string>
+				<key>desc</key>
+				<string>Split up long lines</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>head</string>
+				<key>url</key>
+				<string>/wiki/Head_(Unix)</string>
+				<key>desc</key>
+				<string>Output start of a file</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>iconv</string>
+				<key>url</key>
+				<string>/wiki/Iconv</string>
+				<key>desc</key>
+				<string>Convert code</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>join</string>
+				<key>url</key>
+				<string>/wiki/Join_(Unix)</string>
+				<key>desc</key>
+				<string>Merge two files according to matching fields</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>less</string>
+				<key>url</key>
+				<string>/wiki/Less_(Unix)</string>
+				<key>desc</key>
+				<string>Opposite of more</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>more</string>
+				<key>url</key>
+				<string>/wiki/More_(command)</string>
+				<key>desc</key>
+				<string>Control screen output</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>nl</string>
+				<key>url</key>
+				<string>/wiki/Nl_(Unix)</string>
+				<key>desc</key>
+				<string>Number text lines</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>paste</string>
+				<key>url</key>
+				<string>/wiki/Paste_(Unix)</string>
+				<key>desc</key>
+				<string>Merge lines</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>sed</string>
+				<key>url</key>
+				<string>/wiki/Sed</string>
+				<key>desc</key>
+				<string>Editor in procedure mode</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>sort</string>
+				<key>url</key>
+				<string>/wiki/Sort_(Unix)</string>
+				<key>desc</key>
+				<string>Sort and/or merge files</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>strings</string>
+				<key>url</key>
+				<string>/wiki/Strings_(Unix)</string>
+				<key>desc</key>
+				<string>Find printable strings in object or binary files</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>tail</string>
+				<key>url</key>
+				<string>/wiki/Tail_(Unix)</string>
+				<key>desc</key>
+				<string>Output the last part of a file</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>tr</string>
+				<key>url</key>
+				<string>/wiki/Tr_(Unix)</string>
+				<key>desc</key>
+				<string>Replace or delete character</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>uniq</string>
+				<key>url</key>
+				<string>/wiki/Uniq</string>
+				<key>desc</key>
+				<string>Search for repeated lines</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>vi</string>
+				<key>url</key>
+				<string>/wiki/Vi</string>
+				<key>desc</key>
+				<string>Screen editor</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>wc</string>
+				<key>url</key>
+				<string>/wiki/Wc_(Unix)</string>
+				<key>desc</key>
+				<string>Count words, characters and lines</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>xargs</string>
+				<key>url</key>
+				<string>/wiki/Xargs</string>
+				<key>desc</key>
+				<string>Create argument list(s) and execute command</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Shell builtins</string>
+		<key>commands</key>
+		<array>
+			<dict>
+				<key>cmd</key>
+				<string>alias</string>
+				<key>url</key>
+				<string>/wiki/Alias_(command)</string>
+				<key>desc</key>
+				<string>Define or display alias</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>echo</string>
+				<key>url</key>
+				<string>/wiki/Echo_(command)</string>
+				<key>desc</key>
+				<string>Output call arguments</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>expr</string>
+				<key>url</key>
+				<string>/wiki/Expr</string>
+				<key>desc</key>
+				<string>Evaluate expressions</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>printf</string>
+				<key>url</key>
+				<string>/wiki/Printf_format_string</string>
+				<key>desc</key>
+				<string>Formatted output</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>sleep</string>
+				<key>url</key>
+				<string>/wiki/Sleep_(Unix)</string>
+				<key>desc</key>
+				<string>Temporarily halt processes</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>test</string>
+				<key>url</key>
+				<string>/wiki/Test_(Unix)</string>
+				<key>desc</key>
+				<string>Check conditions</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>true and false</string>
+				<key>url</key>
+				<string>/wiki/True_and_false_(commands)</string>
+				<key>desc</key>
+				<string>Return end status 0 or not equal to 0</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>unset</string>
+				<key>url</key>
+				<string>/wiki/Unset</string>
+				<key>desc</key>
+				<string>Remove the corresponding variable or function</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>wait</string>
+				<key>url</key>
+				<string>/wiki/Wait_(command)</string>
+				<key>desc</key>
+				<string>Wait for termination of background processes</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>yes</string>
+				<key>url</key>
+				<string>/wiki/Yes_(Unix)</string>
+				<key>desc</key>
+				<string>Be repetitively affirmative</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Networking</string>
+		<key>commands</key>
+		<array>
+			<dict>
+				<key>cmd</key>
+				<string>dig</string>
+				<key>url</key>
+				<string>/wiki/Dig_(command)</string>
+				<key>desc</key>
+				<string>DNS lookup utility</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>host</string>
+				<key>url</key>
+				<string>/wiki/Host_(Unix)</string>
+				<key>desc</key>
+				<string>DNS lookup utility</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>ifconfig</string>
+				<key>url</key>
+				<string>/wiki/Ifconfig</string>
+				<key>desc</key>
+				<string>Configure network interface parameters</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>inetd</string>
+				<key>url</key>
+				<string>/wiki/Inetd</string>
+				<key>desc</key>
+				<string>Daemon for internet services</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>netstat</string>
+				<key>url</key>
+				<string>/wiki/Netstat</string>
+				<key>desc</key>
+				<string>Show network status</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>nslookup</string>
+				<key>url</key>
+				<string>/wiki/Nslookup</string>
+				<key>desc</key>
+				<string>Query Internet name servers interactively</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>ping</string>
+				<key>url</key>
+				<string>/wiki/Ping_(networking_utility)</string>
+				<key>desc</key>
+				<string>Send ICMP ECHO_REQUEST packets to network hosts</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>rlogin</string>
+				<key>url</key>
+				<string>/wiki/Rlogin</string>
+				<key>desc</key>
+				<string>Remote login</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>route</string>
+				<key>url</key>
+				<string>/wiki/Route_(command)</string>
+				<key>desc</key>
+				<string>Manually manipulate the routing tables</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>ssh</string>
+				<key>url</key>
+				<string>/wiki/OpenSSH</string>
+				<key>desc</key>
+				<string>OpenSSH SSH client (remote login program)</string>
+			</dict>
+			<dict>
+				<key>cmd</key>
+				<string>traceroute</string>
+				<key>url</key>
+				<string>/wiki/Traceroute</string>
+				<key>desc</key>
+				<string>Print the route packets take to network host</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionTitle</key>
+		<string>Searching</string>
+		<key>commands</key>
+		<array>
+            <dict>
+                <key>cmd</key>
+                <string>find</string>
+                <key>url</key>
+                <string>/wiki/Find</string>
+                <key>desc</key>
+				<string>Search directories</string>
+            </dict>
+            <dict>
+                <key>cmd</key>
+                <string>grep</string>
+                <key>url</key>
+                <string>/wiki/Grep</string>
+                <key>desc</key>
+				<string>Get pattern</string>
+            </dict>
+            <dict>
+                <key>cmd</key>
+                <string>locate</string>
+                <key>url</key>
+                <string>/wiki/Locate_(Unix)</string>
+                <key>desc</key>
+				<string>Find filenames quickly</string>
+            </dict>
+            <dict>
+                <key>cmd</key>
+                <string>whatis</string>
+                <key>url</key>
+                <string>/wiki/Whatis</string>
+                <key>desc</key>
+				<string>Search the whatis database for complete words</string>
+            </dict>
+            <dict>
+                <key>cmd</key>
+                <string>whereis</string>
+                <key>url</key>
+                <string>/wiki/Whereis</string>
+                <key>desc</key>
+				<string>Locate programs</string>
+            </dict>
+		</array>
+	</dict>
+    <dict>
+        <key>sectionTitle</key>
+        <string>Documentation</string>
+        <key>commands</key>
+        <array>
+            <dict>
+                <key>cmd</key>
+                <string>apropos</string>
+                <key>url</key>
+                <string>/wiki/Apropos_(Unix)</string>
+                <key>desc</key>
+				<string>Search the whatis database for strings</string>
+            </dict>
+            <dict>
+                <key>cmd</key>
+                <string>help</string>
+                <key>url</key>
+                <string>/wiki/Help_(command)</string>
+                <key>desc</key>
+				<string>Display helpful information about builtin commands</string>
+            </dict>
+            <dict>
+                <key>cmd</key>
+				<string>man</string>
+                <key>url</key>
+                <string>/wiki/Man_page</string>
+                <key>desc</key>
+				<string>Use online documentation</string>
+            </dict>
+        </array>
+    </dict>
+    <dict>
+        <key>sectionTitle</key>
+        <string>Miscellaneous</string>
+        <key>commands</key>
+        <array>
+            <dict>
+                <key>cmd</key>
+                <string>bc</string>
+                <key>url</key>
+                <string>/wiki/Bc_(programming_language)</string>
+                <key>desc</key>
+				<string>Arithmetic language</string>
+            </dict>
+            <dict>
+                <key>cmd</key>
+                <string>dc</string>
+                <key>url</key>
+                <string>/wiki/Dc_(computer_program)</string>
+                <key>desc</key>
+				<string>Arbitrary precision calculator</string>
+            </dict>
+            <dict>
+                <key>cmd</key>
+                <string>cal</string>
+                <key>url</key>
+                <string>/wiki/Cal_(Unix)</string>
+                <key>desc</key>
+				<string>Display calendar</string>
+            </dict>
+            <dict>
+                <key>cmd</key>
+                <string>lp</string>
+                <key>url</key>
+                <string>/wiki/Lp_(Unix)</string>
+                <key>desc</key>
+				<string>Print out files</string>
+            </dict>
+            <dict>
+                <key>cmd</key>
+                <string>od</string>
+                <key>url</key>
+                <string>/wiki/Od_(Unix)</string>
+                <key>desc</key>
+				<string>Output file contents in octal format</string>
+            </dict>
+        </array>
+    </dict>
+</array>
+</plist>
